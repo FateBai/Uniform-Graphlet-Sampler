@@ -1,2 +1,2 @@
 # Uniform-Graphlet-Sampler
-Efficient and Near-Optimal Algorithms for Sampling
+Reference from paper Efficient and Near-Optimal Algorithms for Sampling
